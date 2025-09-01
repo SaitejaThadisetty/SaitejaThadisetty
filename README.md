@@ -73,15 +73,10 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitejathadisetty&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saitejathadisetty&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SaitejaThadisetty&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SaitejaThadisetty&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app
 
 ---
 
