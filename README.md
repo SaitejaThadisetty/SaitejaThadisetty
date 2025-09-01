@@ -12,7 +12,7 @@
 
 ---
 
-<h3 align="center"> 🔗 Connect with Me</h3>
+<h1 align="center"> 🔗 Connect with Me</h1>
 <p align="center">
   <a href="https://twitter.com/saiteja2706" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
@@ -27,7 +27,7 @@
 
 ---
 
-<h3>🛠️ Tech Stack</h3>
+#🛠️ Tech Stack
 
 <h4>Languages</h4>
 <p>
@@ -76,7 +76,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SaitejaThadisetty&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaitejaThadisetty&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app
 
 ---
 
