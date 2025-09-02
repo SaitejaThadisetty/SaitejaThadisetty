@@ -27,7 +27,7 @@
 
 ---
 
-#🛠️ Tech Stack
+# 💻 Tech Stack:
 
 <h4>Languages</h4>
 <p>
