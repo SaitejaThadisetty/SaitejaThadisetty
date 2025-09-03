@@ -12,13 +12,15 @@
 
 ---
 
+
+
 <h1 align="center"> 🔗 Connect with Me</h1>
 <p align="center">
-  <a href="https://twitter.com/saiteja2706" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-  </a>
   <a href="https://linkedin.com/in/saitejat27" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/420a8efa-7c5c-4763-bca0-9f190bd26656" />
+  </a>
+  <a href="https://x.com/Saiteja2706" target="_blank">
+    <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0c8d187c-00eb-473d-be92-16041c1937bd" />
   </a>
   <a href="https://www.leetcode.com/saiteja2706" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
