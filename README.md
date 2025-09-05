@@ -17,7 +17,7 @@
 <h1 align="center"> 🔗 Connect with Me</h1>
 <p align="center">
   <a href="https://linkedin.com/in/saitejat27" target="_blank">
-    <img src="https://github.com/user-attachments/assets/420a8efa-7c5c-4763-bca0-9f190bd26656" />
+    <img src="[https://github.com/user-attachments/assets/420a8efa-7c5c-4763-bca0-9f190bd26656](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" />
   </a>
   <a href="https://x.com/Saiteja2706" target="_blank">
     <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0c8d187c-00eb-473d-be92-16041c1937bd" />
